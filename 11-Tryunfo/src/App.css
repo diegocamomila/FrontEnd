@@ -1,0 +1,15 @@
+.container {
+  display: flex;
+}
+
+.forms {
+  display: flex;
+  flex-direction: column;
+  width: 35%;
+}
+
+.cards {
+  display: flex;
+  flex-direction: column;
+  width: 35%;
+}
